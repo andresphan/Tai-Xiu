@@ -11,10 +11,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        {/* <ExerciseCarStore /> */}
-        {/* <DemoProps /> */}
-        {/* <ExerciseCart /> */}
-        {/* <BaiTapGioHangRedux /> */}
+      
         <BaiTapGameXucXac />
       </div>
 
